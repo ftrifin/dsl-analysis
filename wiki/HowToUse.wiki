@@ -6,7 +6,7 @@
  * [HowToUse#Relationship_Analysis Relationship analysis]
  * [HowToUse#Clone_Analysis Clone analysis]
 
-[HowToUse#Non-Xtext-based_EMF_models Non-Xtext-based EMF models]
+[HowToUse#Non-Xtext-based_EMF_Models Non-Xtext-based EMF Models]
 
 _Note: some of the screen shots below come from using the [https://github.com/cloudsmith/geppetto/wiki Geppetto] for the [http://docs.puppetlabs.com/learning/ Puppet] language with the DSL Analysis tool._
 
