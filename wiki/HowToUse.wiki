@@ -1,0 +1,19 @@
+#summary How to use.
+
+= How to Use =
+
+ * [HowToUse#Instance_Analysis Instance analysis]
+ * [HowToUse#Relationship_Analysis Relationship analysis]
+ * [HowToUse#Clone_Analysis Clone analysis]
+
+[HowToUse#Non-Xtext-based_EMF_models Non-Xtext-based EMF models]
+
+_Note: some of the screen shots below come from using the [https://github.com/cloudsmith/geppetto/wiki Geppetto] for the [http://docs.puppetlabs.com/learning/ Puppet] language with the DSL Analysis tool._
+
+==Instance Analysis==
+
+[https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_options.gif]
+
+1. Select "DSL Analysis" > "Metamodel elements" > "Count" to open the following window.
+
+[https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_wizard_count.gif]
