@@ -1,0 +1,50 @@
+# How to Install #
+
+1. Download one of the following update site archive based on the version of Xtext that you are using.
+
+<table cellpadding='5' border='1'>
+<blockquote><tr>
+<blockquote><td>Xtext 1.X</td>
+<td><a href='1/fr.inria.atlanmod.emftocsp.updatesite.zip'>fr.inria.atlanmod.emftocsp.updatesite.zip</a></td>
+</blockquote></tr>
+<tr>
+<blockquote><td>Xtext 2.X</td>
+<td><a href='2/fr.inria.atlanmod.emftocsp.updatesite.zip'>fr.inria.atlanmod.emftocsp.updatesite.zip</a></td>
+</blockquote></tr>
+</table></blockquote>
+
+2. Open the Eclipse IDE and select "Help" > "Install New Software..." to open the following window.
+
+![https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_window.gif](https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_window.gif)
+
+3. Click "Add..." to open the following window.
+
+![https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_repository.gif](https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_repository.gif)
+
+4. Click "Archive..." and select the update site archive you downloaded before. The "Location" textbox should look something like the one in the following window.
+
+![https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_repository_selected.gif](https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_repository_selected.gif)
+
+5. After clicking "OK," check the box next to "DSL Analysis" (as seen in the following window).
+
+![https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_selected.gif](https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_selected.gif)
+
+6. Click "Next" and you should see something like the following window.
+
+![https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_confirm.gif](https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_confirm.gif)
+
+7. Click "Next" and you should see something like the following window.
+
+![https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_license.gif](https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_license.gif)
+
+8. Accept the terms of the license agreement.
+
+9. Click "Finish" to install the DSL Analysis tool.
+
+![https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_warning.gif](https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/dslanalysis_install_warning.gif)
+
+9. Click "OK" in the security warning message.
+
+10. To finish, restart Eclipse.
+
+You can check that the tool was installed by verifying that DSL Analysis is part of the list of installed software. To check this, click "Installation Details" in the window opened when selecting "Help" > "About Eclipse."

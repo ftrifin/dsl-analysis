@@ -1,0 +1,19 @@
+# Metamodels #
+
+## ATL ##
+
+  * <a href='https://gforge.inria.fr/scm/viewvc.php/*checkout*/AtlantEcore/ATL.ecore?root=atlantic-zoos'>Ecore file</a>
+
+  * <a href='https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/ATL.pdf'>ATL package</a> and <a href='https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/OCL.pdf'>OCL package</a> diagrams (generated from Ecorediag files)`*`
+
+## Puppet ##
+
+  * <a href='https://github.com/cloudsmith/geppetto/blob/master/org.cloudsmith.geppetto.pp/model/PP.ecore'>Ecore file</a>
+
+  * <a href='https://svn.codespot.com/a/eclipselabs.org/dsl-analysis/wiki/PP.pdf'>Diagram</a> (generated from Ecorediag file)`*`
+
+
+---
+
+
+`*` If diagram does not appear in browser, please download and open directly in Adobe Acrobat.
